@@ -1,0 +1,11 @@
+cv_bridge==1.16.2
+geopandas==0.13.2
+matplotlib==3.1.2
+numpy==1.24.4
+numpy==1.17.4
+pandas==2.0.3
+pyproj==3.5.0
+pyxtf==1.4.2
+rosbags==0.9.23
+sensor_msgs==1.13.1
+Shapely==2.0.6
